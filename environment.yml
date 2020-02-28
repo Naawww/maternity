@@ -1,0 +1,8 @@
+name: maternity
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - jupyter
+
